@@ -1,0 +1,42 @@
+#sub4_visual {width: 100%; margin-top: 130px;}
+#sub4_visual  img{width: 100%;height: 150px;}
+
+#conWrap {width: 1200px;height: 700px;margin: 0 auto;}
+#conWrap #sub4{width: 1200px;padding-top: 50px;border-bottom: 1px solid #aaa;}
+#conWrap #nav{width: 200px;margin-top: 100px;float: left;}
+#conWrap #nav .navi {width: 200px;text-indent: 10px;margin-top: 1000px;}
+#conWrap #nav .navi li.group {margin-bottom: 3px;}
+#conWrap #nav ul.navi, #conWrap #nav ul.navi ul.sub {list-style: none;margin: 0;padding: 0;}
+
+#conWrap ul.navi li.group .title {height: 35px;margin-bottom: 2px;height: 30px;color: #fff;background-color: #369;cursor:pointer}
+#conWrap ul.navi li.group ul.sub li {height: 35px;margin-bottom: 2px;line-height: 30px;background-color: #eee;}
+#contWrap ul.navi li.group ul.sub li a {text-decoration: none;display: block;width: 100%;height: 100%;color: #000;}
+#contWrap ul.navi li.group ul.sub li:hover {background-color: #ccc;}
+
+
+/* con1 sub4 content */
+#con1 {width: 1200px;height: 2000px;}
+#con1 .box8{width: 700px;height: 100px;margin: 0 auto;}
+#con1 .box8 .tit {width: 700px;height: 150px;margin-left: 150px;}
+#con1 .box8 .tit h4{text-align: center;width: 200px;height: 30px; background-color: #369; color: #fff;margin: 100px;
+margin-bottom: 15px;padding-top: 2px;}
+#con1 .box8 .sub1 {width: 700px;height: 500px;margin-top: 70px;margin-left: 150px;}
+#con1 .box8 .sub1 h4{margin-bottom: 20px;}
+#con1 .box8 .sub1 > ul > li {width: 700px;height: 30px;padding-top: 5px;padding-left: 5px;background-color: #fcc;}
+
+#con1 .box8 .sub2 {width: 700px;height: 350px;margin-top: 130px;margin-left: 150px;}
+#con1 .box8 .sub2 h4{margin-bottom: 20px;}
+#con1 .box8 .sub2>ul>li {width: 700px;height: 40px;padding-top: 5px;padding-left: 5px;background-color: #fcc;}
+
+#con1 .box8 .sub3 {width: 700px;height: 270px;margin-left: 150px;}
+#con1 .box8 .sub3 h4 {margin-bottom: 30px;}
+#con1 .box8 .sub3 table {width: 700px;height: 130px;border-collapse: collapse ;}
+#con1 .box8 .sub3 th, #con1 .box8 .sub3 td {border: 1px solid #000;}
+#con1 .box8 .sub3 tr:nth-child(odd) {background-color: #ccc;}
+#con1 .box8 .sub3 tr:nth-child(1) {background-color: #369;color: #fff;}
+
+#con1 .box8 .sub4 {width: 700px;height: 400px;margin-left: 150px;}
+#con1 .box8 .sub4 h4 {margin-bottom: 30px;}
+#con1 .box8 .sub4 ul li {width: 700px;height: 60px;padding-top: 10px;padding-left: 5px;background-color: #fcc;}
+
+

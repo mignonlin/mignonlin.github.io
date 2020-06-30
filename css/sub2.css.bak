@@ -1,0 +1,39 @@
+body{font-family: '바탕';}
+
+/* visual */
+#sub2_visual {width:100%;margin-top:130px}
+#sub2_visual img {width:100%; height:150px;}
+
+
+/* subWrap */
+#conWrap {width:1200px; height:1100px; margin:auto}
+#conWrap #sub2 {width:1200px; padding-top:50px ;border-bottom: 1px solid #aaa;}
+#conWrap #sub2 h2 { padding-bottom:20px; color:#555}
+#conWrap #nav {width:200px;margin-top:100px; float:left; background-color:#fff;}
+#conWrap #nav ul.navi {width:200px; text-indent: 10px; margin-top:1000px;}
+#conWrap ul.navi li.group {margin-bottom: 3px}
+#conWrap #nav ul.navi,
+#conWrap #nav ul.navi ul.sub {list-style: none; margin: 0; padding: 0;}
+
+
+/* sub li */
+div.title {height: 35px; margin-bottom: 2px; line-height: 30px; color:#fff; background:#369; cursor:pointer}
+#conWrap ul.navi li.group ul.sub li {height:35px; margin-bottom: 2px; line-height: 30px; 
+background:#eee}
+#conWrap ul.navi li.group ul.sub li a {text-decoration: none; display: block; width: 100%; height: 100%;
+color:#000}
+#conWrap ul.navi li.group ul.sub li:hover {background:#ccc}
+
+
+/* table */
+#con1 {width:1200px;}
+#con1 .box8 {float:left; width:900px; height:900px; margin-top:100px;margin-left: 100px;;}
+
+table {border-collapse:collapse; width:900px}
+tr.toptit {padding-top: 10px}
+th  {border: 1px solid black; border-collapse: collapse;text-align: center;padding:5px;}
+td{padding: 10px;}
+th.first{background-color: #f8f8f8;}
+td.tit {text-align: center;background-color: #f8f8f8;}
+
+.dot > li {list-style-type: circle ;list-style-position: inside;}  /*색은 어떻게 넣는지 모르겠당*/

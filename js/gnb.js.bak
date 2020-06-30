@@ -1,0 +1,34 @@
+$(function(){
+	var gnbA =$('#gnb>li');
+	var sub = $('#gnb>li>ul');
+	
+	var headerMin = $('#headerBox').height();
+	var headerMax = sub.innerHeight()+headerMin;
+
+	var state = false;
+	var speed = 150;
+	
+	gnbA.mouseenter(function(){
+		if(!state){
+			//#headerBox가 풀박스인데 에니메이트를 주겠다 
+			$('#headerBox').stop().animate({height:headerMax/*변수라서 따옴표없음*/},speed,function(){
+				sub.stop().fadeIn(speed);
+			}); 
+			state=true;
+		}
+		$(this).addClass('on'); 
+		$(this).find(sub).addClass('on'); 
+	}); //mouseenter end
+	
+	gnbA.mouseleave(function(){
+		$(this).removeClass('on');   //add 에서 remove로 바꿔줌 
+		$(this).find(sub).removeClass('on'); 
+	}); //mouseleave end
+
+	$('#gheader').mouseleave(function(){
+		sub.stop().fadeOut(speed,function(){
+		$('#headerBox').stop().animate({height:headerMin},speed);
+		});
+		state=false;
+	});
+});

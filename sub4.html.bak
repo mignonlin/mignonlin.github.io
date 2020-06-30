@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>한전KPS</title>
+
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/sub4.css">
+
+	<script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script src="script/gnb.js"></script>
+	<script src="script/navi.js"></script>
+</head>
+<body>
+	<div id="Wrap">
+		<div id="header">
+			<h1><a href="index.html"><img src="images/logo2.png" alt="Logo"></a></h1>
+		</div><!-- header -->
+		
+		<div id="fullmenu">
+			<div id="headerBox">
+				<div id="gheader">
+					<ul id="gnb">
+						<li class="m1"><a href="#">회사소개</a>
+							<ul>
+								<li><a href="sub1.html">CEO</a></li>
+								<li><a href="#">VISION</a></li>
+								<li><a href="#">연혁</a></li>
+								<li><a href="#">조직&인력</a></li>
+								<li><a href="#">주요사업</a></li>
+								<li><a href="#">채용정보</a></li>
+								<li><a href="#">KPS CI/SI</a></li>
+								<li><a href="#">찾아오시는길</a></li>
+							</ul>
+						</li>
+
+						<li class="m2"><a href="#">열린KPS</a>
+							<ul>
+								<li><a href="sub2.html">활동분야</a></li>
+								<li><a href="#">지속가능경영</a></li>
+								<li><a href="#">사회공헌</a></li>
+								<li><a href="#">청렴센터</a></li>
+								<li><a href="#">열린 KPS 1번가</a></li>
+							</ul>	
+						</li>
+
+						<li class="m3"><a href="#">투자정보</a>
+							<ul>
+								<li><a href="sub3.html">재무정보</a></li>
+								<li><a href="#">공시정보</a></li>
+								<li><a href="#">주식정보</a></li>
+								<li><a href="#">주가정보</a></li>
+								<li><a href="#">재무정보</a></li>
+								<li><a href="#">IR자료</a></li>
+							</ul>	
+						</li>
+
+						<li class="m4"><a href="#">KPS기술</a>
+							<ul>
+								<li><a href="sub4.html">교육훈련</a></li>
+								<li><a href="#">연구개발</a></li>
+								<li><a href="#">특화기술</a></li>
+								<li><a href="#">지식재산권</a></li>
+								<li><a href="#">기술재휴</a></li>
+								<li><a href="#">품질활동</a></li>
+							</ul>	
+						</li>
+
+						<li class="m5"><a href="#">고객센터</a>
+							<ul>
+								<li><a href="#">고객현장</a></li>
+								<li><a href="#">고객상담실</a></li>
+								<li><a href="#">공익신고</a></li>
+								<li><a href="#">전자민원센터</a></li>
+								<li><a href="#">입찰정보</a></li>
+								<li><a href="#">KPS옴부즈만</a></li>
+							</ul>	
+						</li>
+
+						<li class="m6"><a href="#">e홍보실</a>
+							<ul>
+								<li><a href="#">전자사보</a></li>
+								<li><a href="#">KPS홍보관</a></li>
+								<li><a href="#">KPS뉴스</a></li>
+							</ul>
+						</li>
+
+						<li class="m7"><a href="#">정보공개</a>
+							<ul>
+								<li><a href="sub5.html">정보공개제도</a></li>
+								<li><a href="#">사전정보공개</a></li>
+								<li><a href="#">법무</a></li>
+								<li><a href="#">사규</a></li>
+								<li><a href="#">사규 제·개정예고</a></li>
+								<li><a href="#">사업실명제</a></li>
+							</ul>
+						</li>
+					</ul><!-- gnb -->
+				</div><!-- gheader -->
+			</div><!-- headerBox -->
+		</div><!-- fullmenu -->
+
+		<div id="sub4_visual">
+			<img src="images/sub_visual2.png" alt="Technology">
+		</div><!-- sub1_visual -->
+	
+
+		<div id="conWrap"><!-- 0711 -->
+			<div id="sub4">
+				<h2>인재개발원</h2>
+			</div>
+
+			<div id="nav">
+				<ul class="navi">
+					<li class="group">
+						<div class="title">교육훈련</div>
+						<ul class="sub">
+							<li><a href="#">일반사항</a></li>
+							<li><a href="#">인재개발원</a></li>
+						</ul>
+					</li>
+					
+					<li class="group">
+						<div class="title">연구개발</div>
+						<ul class="sub">
+							<li><a href="#">연구개발 수행체계</a></li>
+							<li><a href="#">중장기 기술확보계획</a></li>
+							<li><a href="#">보유기술</a></li>
+						</ul>
+					</li>
+
+					<li class="group">
+						<div class="title">품질활동</div>
+						<ul class="sub">
+							<li><a href="#">품질비전체계</a></li>
+							<li><a href="#">고객만족경영 현황</a></li>
+							<li><a href="#">품질경영시스템</a></li>
+							<li><a href="#">품질혁신성과</a></li>
+						</ul>
+					</li>
+				</ul><!-- navi -->
+			</div><!-- nav -->
+		
+			<div id="con1">
+				<div class="box8">
+					<div class="tit">
+						<h4>리더십센터 / 화력센터</h4>
+						<p>1990년에 태동한 인재개발원은 최첨단 설비를 갖춘 강의실. 교수연구실,정비훈련동,생활관 및 기타 부대시설을 갖추고 기본과정, 실무과정, 전문과정, 엔지니어링과정 등을 개설하여 이론과 실습을 겸비한 교육훈련을 실시하고 있으며, 또한 자체 기술 개발과 해외 신기술의 도입 및 연구를 통하여 현장에서 요구되는 체험학습이 가능한 실습 프로그램과 시청각 교보재의 개발등을 지속적으로 수행하고 있습니다.</p>
+					</div><!-- tit -->
+
+					<div class="sub1">
+						<h4>연혁</h4>
+						<ul>
+							<li>· 1979~1987 : 교육훈련과 조직운영</li>
+							<li>· 1985. 12 : 장단기 교육훈력계획 수립</li>
+							<li>· 1988 .05 : 최초 사내교육장 개설 운영(수도공고내)</li>
+							<li>· 1990. 03. 01 : 서울 연수원 개원</li>
+							<li>· 1995. 10. 01 : 수화력기술연수원 설립추진반 발족</li>
+							<li>· 1997. 06. 17 : 연수원 준공(한전)</li>
+							<li>· 1997. 08. 01 : 수화력기술 연수원 개원 서울 연수원 업무 이관</li>
+							<li>· 2003. 12. 27 : 송전전기원기능향상과정 교육기관지정(한전)</li>
+							<li>· 2006. 03. 22 : 종합연수원으로 명칭 변경</li>
+							<li>· 2007. 08. 31 : ISO 18436 훈련센터 인증 (한국설비진단자격 인증원) 기계상태감시 및 진단과정</li>
+							<li>· 2008. 09. 30 : 인적자원개발 최우수기관 인증</li>
+							<li>· 2009. 01. 28 : 인재개발원 명칭 변경</li>
+							<li>· 2017. 10. 23 : 인재개발원 나주 신사옥 이전</li>
+							<li>· 2019. 02 : 인재개발원 직제개편 (원자력연수원 통합)</li>
+						</ul>
+					</div><!-- sub1 -->
+
+					<div class="sub2">
+						<h4>교육과정</h4>
+						<ul>
+							<li>·리더쉽과정 : 승격자 기본과정,  리더십심화과정, 리더십유지과정 등</li>
+							<li>·기본과정 : 기계기본직무과정, 전기/계측제어기본직무과정, 발전계통화력과정 등</li>
+							<li>·실무과정 : 기계(기계상태감시, 터빈, 펌프, 밸브, 보일러, 팬, 압축기 등), 전기(발전기, 보호계전기, 전자응용기기 등), 계측제어, 품질, 용접, 송전분야 등 전문과정</li>
+							<li>·엔지니어링과정 : ISO 기계상태감시 및 진단과정(Category |||)</li>
+						</ul>
+					</div><!-- sub2 -->
+
+					<div class="sub3">
+						<h4>교육훈련실적</h4>
+						<table style="width:100%">
+							<colgroup>
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">
+								<col width="1.25%">			
+							</colgroup>
+							<tr bgcolor="#ccc">
+								<th>구분</th>
+								<th>2012</th>
+								<th>2013</th>
+								<th>2014</th>
+								<th>2015</th>
+								<th>2016</th>
+								<th>2017</th>
+								<th>2018</th>
+							</tr>
+							<tr>
+								<td>교육과정</td>
+								<td>81</td>
+								<td>94</td>
+								<td>92</td>
+								<td>87</td>
+								<td>101</td>
+								<td>89</td>
+								<td>125</td>
+							</tr>
+							<tr>
+								<td>시행횟수</td>
+								<td>150</td>
+								<td>140</td>
+								<td>167</td>
+								<td>183</td>
+								<td>179</td>
+								<td>159</td>
+								<td>257</td>
+							</tr>
+							<tr>
+								<td>교육인원</td>
+								<td>2,910</td>
+								<td>2,803</td>
+								<td>2,946</td>
+								<td>3,486</td>
+								<td>2,983</td>
+								<td>2,385</td>
+								<td>4,764</td>
+							</tr>
+						</table>
+					</div><!-- sub3 -->
+
+					<div class="sub4">
+						<h4>기타</h4>
+						<ul>
+							<li>·소재지 : (도로명주소) 전남 나주시 다도면 신방로 255 (한전KPS(주) 인재개발원) <br>(지번주소) 전남 나주시 가고면 판촌리 1414번지 (한전KPS(주) 인재개발원)</li>
+							<li>·문의처 : 교육기획실 : 061-357-9200~12 / 화력센터 : 061-357-9300 / 교육총무부 : 061-357-9100. FAX : 061-357-9219</li>
+						</ul>
+					</div><!-- sub4 -->
+				</div><!-- box8 -->
+			</div><!-- con1 -->
+		</div><!-- conWrap -->
+	
+
+
+	<div id="footer"><!-- 4/12 IDIS -->
+		<div class="contact">
+			<ul>
+				<li><a href="#">찾아오시는길</a></li>
+				<li><a href="#">개인정보처리방침</a></li>
+				<li><a href="#">이메일 무단수집 금지</a></li>
+				<li><a href="#">영상정보처리기운영·관리방침</a></li>
+			</ul>
+		</div><!-- contact -->
+
+		<div class="address">
+			<p class="add">58326 전라남도 나주시 문화로 211 빛가람동 한전KPS <br> tel. 061-345-0114 &nbsp;|&nbsp; &copy 2015 KEPCO KPS. ALL Right Reserved.</p>
+
+			<ul class="mark">
+				<li><a href="#"><img src="images/footer_icon1.png" alt="품질경쟁력 우수기업 명예의 전당 헌정"></a></li>
+				<li><a href="#"><img src="images/footer_icon2.png" alt="한국 서비스대상 명예의 전당 헌정"></a></li>
+				<li><a href="#"><img src="images/footer_icon4.png" alt="가족친화 우수기관인증"></a></li>
+				<li><a href="#"><img src="images/footer_icon5.jpg" alt="인증마크"></a></li>
+			</ul><!-- mark -->
+		</div><!-- address -->
+	</div><!-- footer -->
+	</div><!-- Wrap -->
+
+</body>
+</html>
