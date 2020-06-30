@@ -256,7 +256,7 @@
 					<li><a href="#"><img src="images/footer_icon4.jpg" alt="4"></a></li>
 				</ul>
 			</div>
-		</div>
+		</div> <!-- footer -->
 	</div> <!-- wrap -->
 	 <script>
     var now_img,next_img;
